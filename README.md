@@ -1,4 +1,1 @@
-# サンプルリポジトリです
-
-LambdaをGithub Actionsで自動デプロイ
-言語はGolang
+# Lambda × Golang × GitHub Actions Sample
